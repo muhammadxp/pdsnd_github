@@ -186,9 +186,9 @@ def user_stats(df):
     
     x = 1
     while True:
-         if x in range(1,100,100):
-            print(df[x:x+100])
-            x = x+100
+         if x in range(1,150,150):
+            print(df[x:x+150])
+            x = x+150
          else:
             break
     
