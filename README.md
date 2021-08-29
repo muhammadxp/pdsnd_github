@@ -2,7 +2,7 @@
 
 ### Date created
 29/08/2021
-### Project Title
+### US Bikeshare Data
 US Bikeshare data
 ### Description
 Veiwing statistics of usage of Bikeshare for different cities based on choice.
@@ -13,5 +13,4 @@ new_york_city.csv
 chicago.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+https://git-scm.com/doc
