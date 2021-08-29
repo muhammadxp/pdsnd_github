@@ -191,7 +191,7 @@ def user_stats(df):
             x = x+150
          else:
             break
-    
+##Changed count from 100 to 150    
 def main():
     while True:
         city, month, day = get_filters()
